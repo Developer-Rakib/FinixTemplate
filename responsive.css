@@ -1,0 +1,271 @@
+@media (max-width:1255px) {
+    .ulPerent{
+        width: 80%;
+      }
+      nav .btn{
+        margin-left: 60px;
+      }
+      .header-info {
+        align-items: center;
+        margin-left: 10px;
+    }
+}
+
+@media (max-width:1100px) {
+    .container-me {
+        padding: 0 55px;
+
+    }
+    .manu-section ul li {
+        padding: 0 10px;
+    }
+}
+
+
+@media (max-width:1000px) {
+
+    .container-me {
+        padding: 0 15px;
+
+    }
+    .services-content li {
+        border-bottom: 1px solid #414141;
+        padding-left: 0;
+        width: 30%;
+    }
+    .why-item {
+    
+        width: 148px;
+        height: 190px;
+    }
+}
+
+@media (max-width:970px) {
+
+    .manu-section ul li {
+        padding: 0 5px;
+    }
+
+    .container-me {
+        padding: 0 15px;
+
+    }
+    .header-info {
+        margin-left: 5px;
+    }
+
+    nav .btn {
+        margin-left: 44px;
+        font-size: 12px;
+        padding: 6px 0;
+        width: 102px;
+    }
+    .phone-info {
+        font-size: 13px;
+    }
+}
+
+@media (max-width:780px) {
+
+  
+    .container-me {
+        width: 100%;
+        margin: 0 auto;
+        border: 0px solid #111;
+        padding: 0 8px;
+    }
+    .call-img {
+        width: 90%;
+        margin: 0 auto;
+    }
+    .services-content {
+        margin-left: 0;
+    }
+    .services-content li {
+        border: none;
+        width: 30%;
+        margin: 0 auto;
+    }
+    
+    nav .logo img {
+        margin-right: 0;
+        width: 127px;
+    }
+    .member-pace {
+        text-align: center;
+    }
+    .clint-details {
+        text-align: center;
+    }
+    .member-social ul {
+        margin-left: 32px;
+    }
+    .why-item {
+        margin-right: 0px;
+        margin-left: 20px;
+        width: 220px;
+        height: 221px;  
+    }
+    .bog-item {
+        margin-bottom: 30px;
+        width: 80%;
+        margin: 22px auto;
+    }
+    .footer-section {
+        background-color: #111;
+        color: white !important;
+        padding: 31px 0;
+            padding-top: 31px;
+        padding: 24px;
+            padding-top: 24px;
+    }
+    .call-header {
+        border-right: none;
+    }
+    
+}
+
+
+@media (max-width:600px) {
+
+    .slider-item h1 {
+        font-weight: 600;
+        font-size: 31px;
+    }
+    .container-me {
+        padding: 0 68px;
+    }
+    .about-img {
+        width: 80%;
+        margin: 0 auto;
+    }
+    .about-info {
+        width: 80%;
+        margin: 0 auto;
+            margin-top: 0px;
+    }
+    .apply-function {
+        margin-left: 30px;
+        margin-bottom: 20px;
+        width: 80%;
+        margin: 0 auto;
+    }
+    .call-items{
+        width: 80%;
+    margin: 0 auto;
+    }
+    .services-img {
+        width: 80%;
+        margin: 0 auto;
+    }
+    .services-text {
+        width: 80%;
+        margin: 0 auto;
+    }
+    .testiunial-section {
+        width: 80%;
+        margin: 0 auto;
+    }
+    .member-pace img {
+        height: 370px;
+    }
+    .slider-text {
+        text-align: center;
+        padding: 0 20px;
+    }
+}
+
+@media (max-width:500px) {
+
+    .services-content li {
+        font-size: 12px;
+    }
+    .services-content li button span{
+        font-size: 20px;
+        height: 42px;
+        width: 42px;
+        line-height: 42px;
+    }
+    .container-me {
+        padding: 0 42px;
+    }
+    .member-pace img {
+        height: 370px;
+    }
+    .why-item {
+        margin-right: 0px;
+        margin-left: 6px;
+    }
+    .call-header h3 {
+        font-size: 26px; 
+    }
+    .why-item {
+        width: 148px;
+        height: 190px;
+    }
+    .services-img {
+        height: 454px;
+        line-height: 454px;
+    }
+}
+
+@media (max-width:460px){
+
+    .why-item {
+
+        width: 153px;
+        height: 188px;
+
+    }
+    .services-img {
+        height: 410px;
+        line-height: 410px;
+    }
+    
+}
+
+
+
+@media (max-width:390px){
+    nav .btn {
+        margin-left: 19px;
+        font-size: 9px;
+        padding: 6px 0;
+
+    }
+    .services-img {
+        height: 333px;
+        line-height: 333px;
+    }
+    .services-content li {
+        font-size: 10px;
+    }
+    .services-content li button span{
+        font-size: 15px;
+        height: 38px;
+        width: 38px;
+        line-height: 38px;
+    } 
+    .call-header h3 {
+        font-size: 20px;
+    }
+    .call-details span {
+        height: 35px;
+        width: 35px;
+        line-height: 35px;
+        font-size: 17px;
+    }
+    .call-details a {
+        font-size: 19px;
+    }
+    .call-item-tite h3 {
+        font-size: 26px;
+    }
+    .call-item-light h3 {
+        font-size: 19px;
+    }
+    .why-item:nth-child(1) {
+        margin-bottom: 0px;
+    }
+    
+}
