@@ -149,8 +149,6 @@ body .btn-primary:hover::after{
 
  /* slider section */
 
-
-
 .slider-section{
   background-image: url("img/main-banner2.jpg");
   background-repeat: no-repeat;
@@ -207,8 +205,8 @@ body .btn-primary:hover::after{
   color: black;
 }
 
-/*  logo section    */
 
+/*  logo section    */
 
 .logo-section{
   border-bottom: 1px solid #ddd;
